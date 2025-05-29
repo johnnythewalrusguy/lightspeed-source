@@ -57,6 +57,7 @@ room_goto(Room19)
 if(room==Room19){
 room_goto(Room20)}
 if(room==Room20){
+	audio_play_sound (LightSpeedTemptheme,5, true);
 room_goto(TEST)}
 if(room==TEST){
 room_goto(Room22)}

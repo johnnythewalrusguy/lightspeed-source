@@ -19,3 +19,4 @@ else {
    sprite_index =Sprite34;
    leg.bee_off_image = true
 }
+//walrus
